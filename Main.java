@@ -1,4 +1,5 @@
 class Main {
+  
   public static void main(String[] args) {
     Ekspedisi siCepat = new Ekspedisi();
     siCepat.setJarakTempuh(1300);

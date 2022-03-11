@@ -4,7 +4,7 @@ public class Ekspedisi{
   private float totalBayar;
   private int lamaPengiriman;
   private String namaPaket;
-
+ 
   public int getJarakTempuh(){
     return this.jarakTempuh;
   }
